@@ -1,6 +1,7 @@
 public class Produto {
     private int codigo;
-    private int descricao;
-    private int preco;
+    private String descricao;
+    private double preco;
     private int setor;
+    private int tipo;
 }
